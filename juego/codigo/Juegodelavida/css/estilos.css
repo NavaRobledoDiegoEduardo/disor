@@ -1,0 +1,21 @@
+td {
+  border:1px solid #ccc;
+  width: 22px;
+  height: 22px;
+}
+td:hover {
+  background:red;
+  opacity: 0.4;
+}
+.life-active {
+  width: 80%;
+  height: 80%;
+  border-radius: 0px;
+  background: black;
+  margin: auto;
+  
+  box-shadow: 0px 0px 1px black;
+}
+table {
+  box-shadow: 0px 0px 10px #ccc;
+}
